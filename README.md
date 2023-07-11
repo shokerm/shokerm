@@ -1,4 +1,4 @@
-<h1 align="center"> Hello everyone! I'm Moshe Shoker!</h1>
+<h1 align="center"> Hello everyone 👋, I'm Moshe Shoker</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif">
 
