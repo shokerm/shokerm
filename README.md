@@ -1,7 +1,7 @@
 <h1 align="center"> Hello everyone 👋, I'm Moshe Shoker</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif">
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://github.com/shokerm/shokerm/assets/96984377/80b81534-1370-4b84-a2fc-35dc84883b33)
+
 - ⚡ I am a diligent, passionate self-taught Software Developer
 - ⚡ Always ready for a new challenges, studying and exploring unfamiliar areas of expertise
 - 💬 Ask me about **everything you want**
