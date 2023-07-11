@@ -4,7 +4,7 @@
 
 - ⚡ I am a diligent, passionate self-taught Software Developer
 - ⚡ Always ready for a new challenges, studying and exploring unfamiliar areas of expertise
-- 💬 Ask me about **everything you want**
+- 💬 Ask me about **everything you want**![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://github.com/shokerm/shokerm/assets/96984377/80b81534-1370-4b84-a2fc-35dc84883b33)
 
 - 📫 How to reach me **moshe@shoker.co.il**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shokerm&label=Profile%20views&color=0e75b6&style=flat" alt="shokerm" /> </p>
