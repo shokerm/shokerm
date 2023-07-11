@@ -1,10 +1,9 @@
 <h1 align="center"> Hello everyone! I'm Moshe Shoker!</h1>
 <h3 align="center">Full Stack Developer</h3>
- I am a diligent, passionate self-taught Software Developer .
-Always ready for a new challenges, studying and exploring unfamiliar areas of expertise.
-Always ready for a new challenges, studying and exploring unfamiliar areas of expertise</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif">
 
+-  I am a diligent, passionate self-taught Software Developer.
+- Always ready for a new challenges, studying and exploring unfamiliar areas of expertise.
 - 📫 How to reach me **moshe@shoker.co.il**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shokerm&label=Profile%20views&color=0e75b6&style=flat" alt="shokerm" /> </p>
 
