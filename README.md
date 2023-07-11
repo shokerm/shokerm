@@ -1,6 +1,6 @@
 <h1 align="center"> Hello everyone 👋, I'm Moshe Shoker</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif">
 
 - ⚡ I am a diligent, passionate self-taught Software Developer
 - ⚡ Always ready for a new challenges, studying and exploring unfamiliar areas of expertise
