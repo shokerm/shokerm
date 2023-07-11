@@ -38,7 +38,7 @@
   
 </p>
 
-<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shokerm&show_icons=true&locale=en&layout=compact" alt="shokerm" /></p>
+<p><img height=170 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shokerm&show_icons=true&locale=en&layout=compact" alt="shokerm" /></p>
 
-<p>&nbsp;<img height=200 src="https://github-readme-stats.vercel.app/api?username=shokerm&show_icons=true&locale=en" alt="shokerm" /></p>
+<p>&nbsp;<img height=170 src="https://github-readme-stats.vercel.app/api?username=shokerm&show_icons=true&locale=en" alt="shokerm" /></p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shokerm&" alt="shokerm" /></p>
