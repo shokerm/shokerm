@@ -5,6 +5,7 @@
 - ⚡ I am a diligent, passionate self-taught Software Developer
 - ⚡ Always ready for a new challenges, studying and exploring unfamiliar areas of expertise
 - 💬 Ask me about **everything you want**
+
 - 📫 How to reach me **moshe@shoker.co.il**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shokerm&label=Profile%20views&color=0e75b6&style=flat" alt="shokerm" /> </p>
 
@@ -16,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet core" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="asp.net" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96984377/252634974-a3aa0f9f-c305-4250-9be0-3547b25f4d97.png" alt="asp.net" width="40" height="40"/> </a>
   <a href="https://www.angular.io/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://material.angular.io" target="_blank" rel="noreferrer"> <img src="https://material.angular.io/assets/img/angular-material-logo.svg" alt="angular material" width="40" height="40"/> </a>
