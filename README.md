@@ -24,7 +24,8 @@
  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a>  
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
+<a href="https://wordpress.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452136/wordpress.svg" alt="wordpress" width="40" height="40"/> </a>
+<a href="https://magento.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/475664/magento-color.svg" alt="magento" width="40" height="40"/> </a> 
 
   
 </p>
