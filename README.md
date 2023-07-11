@@ -1,5 +1,7 @@
-<h1 align="center"> If you need it , just roar it!</h1>
-<h3 align="center">Hello everyone! I'm Moshe Shoker.<br> I am a diligent, passionate self-taught Software Developer.<br>
+<h1 align="center"> Hello everyone! I'm Moshe Shoker!</h1>
+<h3 align="center">Full Stack Developer</h3>
+ I am a diligent, passionate self-taught Software Developer .
+Always ready for a new challenges, studying and exploring unfamiliar areas of expertise.
 Always ready for a new challenges, studying and exploring unfamiliar areas of expertise</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif">
 
