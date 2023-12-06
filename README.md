@@ -18,8 +18,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,docker,dotnet,spring,aws,azure,git,postman,kafka,redis,cassandra,postgres,react)](https://skillicons.dev)
+
 <p align="left"> 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  
 </p>
 
 <p><img height=170 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shokerm&show_icons=true&locale=en&layout=compact" alt="shokerm" /></p>
