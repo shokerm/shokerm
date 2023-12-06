@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,docker,dotnet,spring,aws,azure,git,postman,kafka,redis,cassandra,postgres,react)](https://skillicons.dev)
 <p align="left"> 
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet core" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96984377/252634974-a3aa0f9f-c305-4250-9be0-3547b25f4d97.png" alt="asp.net" width="40" height="40"/> </a>
